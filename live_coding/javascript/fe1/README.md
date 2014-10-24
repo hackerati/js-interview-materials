@@ -1,4 +1,4 @@
-JavaScript interview 1:
+JavaScript Interview 1:
 -----------------------
 
 * Hackeratus = Interviewer
@@ -7,7 +7,7 @@ JavaScript interview 1:
 Part 1. The Scenario
 --------------------
 
-Candidate is given a completed, but totally screwed up bit of code running on an apache server on their machine.
+Candidate is given a completed, but totally screwed up bit of code running on an apache server on Interviewer's machine.
 
 Candidate must debug the program in whichever browser they are comfortable with. Interviewer should have options already installed on computer. This might be worth picking up a macbook air or something to dedicate to live coding interview problems down the road.
 
